@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Arnav 👋
 
-<!--
-**arnavmeduri/arnavmeduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=arnavmeduri&color=blue)
 
-Here are some ideas to get you started:
+I'm a Computer Science & Statistics student at Duke University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience
+- Software Engineer Intern @ [Authorship](https://authorship.com/)
+- Software Engineer Intern @ [Ecolytics](https://www.ecolytics.io/)
+
+## Contact
+- ✉️ arnav.meduri@duke.edu
+- [LinkedIn](https://www.linkedin.com/in/arnavmeduri05/)
