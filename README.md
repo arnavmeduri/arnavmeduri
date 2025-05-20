@@ -6,4 +6,4 @@ I'm a Computer Science & Statistics student at Duke University.
 
 ## ✉️ Contact
 - **Email:** [arnav.meduri@duke.edu](mailto:arnav.meduri@duke.edu)  
-- **LinkedIn:** [Arnav Meduri](https://www.linkedin.com/in/arnavmeduri05/)
+- **LinkedIn:** [arnavmeduri05](https://www.linkedin.com/in/arnavmeduri05/)
