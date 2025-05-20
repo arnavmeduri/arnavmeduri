@@ -1,4 +1,4 @@
-## Hi, I'm Arnav 👋
+## Hi, I'm Arnav Meduri 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=arnavmeduri&color=blue)
 
