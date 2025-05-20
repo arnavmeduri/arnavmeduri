@@ -7,13 +7,13 @@
 
 ### 💻 Programming Languages  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/MIPS-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NetLogo-009688?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
 ### 🤖 AI & Machine Learning  
