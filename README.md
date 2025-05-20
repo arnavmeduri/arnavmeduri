@@ -1,8 +1,7 @@
-## 👋 Hi, I'm Arnav Meduri
-💻 Computer Science and Statistics major at Duke University  
-Software Engineering Intern @ [Authorship](https://authorship.com)  
-Software Development Intern @ [Ecolytics](https://www.ecolytics.io)
-
+## 👋 Hi, I'm Arnav Meduri!
+- **Computer Science and Statistics major at Duke University**
+- **Software Engineering Intern** at [Authorship](https://authorship.com)  
+- **Software Development Intern** at [Ecolytics](https://www.ecolytics.io)
 
 
 I'm a Computer Science & Statistics student at Duke University.
