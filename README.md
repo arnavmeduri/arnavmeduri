@@ -3,7 +3,7 @@
 I am a Computer Science and Statistics student at Duke University, with interests in machine learning, distributed systems, and human-centered computing.
 
 
-## Currently...
+## Experience
 
 Software Engineering Intern @ Authorship  
 Software Development Intern @ Ecolytics  
