@@ -1,26 +1,8 @@
 ## 👋 Hi, I'm Arnav Meduri!
-- **Computer Science and Statistics major at Duke University**
-- Software Engineering Intern at [Authorship](https://authorship.com)  
-- Software Development Intern at [Ecolytics](https://www.ecolytics.io)
 
-## 🛠️ Skills and Technologies
+![Profile Views](https://komarev.com/ghpvc/?username=arnavmeduri05&color=blue)
 
-### 💻 Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetLogo-009688?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
-
-### 🤖 AI & Machine Learning  
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+Hi! I'm a Computer Science and Statistics student at Duke University, broadly interested in **machine learning**, **distributed systems**, and **human-centered computing**.
 
 ## ✉️ Let's connect!
 - **Email:** [arnav.meduri@duke.edu](mailto:arnav.meduri@duke.edu)  
