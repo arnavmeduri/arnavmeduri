@@ -5,7 +5,7 @@ I'm a Computer Science and Statistics student at Duke University. I enjoy workin
 ## Currently
 
 Software Engineering Intern @ Authorship  
-Software Engineering Intern @ Ecolytics  
+Software Development Intern @ Ecolytics  
 
 ## Contact
 
