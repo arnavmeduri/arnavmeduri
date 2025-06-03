@@ -4,11 +4,11 @@ I am a Computer Science and Statistics student at Duke University, with interest
 
 ## Experience
 
-Software Engineering Intern — Authorship (May 2025 – Present)  
-Software Development Intern — Ecolytics (May 2025 – Present)  
-Machine Learning Intern — Columbia University Irving Medical Center (June 2023 – March 2025)  
-Machine Learning Research Intern — NC State University Dept. of Electrical and Computer Engineering (May 2022 – August 2023)  
-Bioinformatics Research Intern — NC State Dept. of Veterinary Medicine (April 2022 – March 2023)
+Software Engineering Intern @ Authorship (May 2025 – Present)  
+Software Development Intern @ Ecolytics (May 2025 – Present)  
+Machine Learning Intern @ Columbia University Irving Medical Center (June 2023 – March 2025)  
+Machine Learning Research Intern @ NC State University Dept. of Electrical and Computer Engineering (May 2022 – August 2023)  
+Bioinformatics Research Intern @ NC State Dept. of Veterinary Medicine (April 2022 – March 2023)
 
 ## Contact
 
