@@ -1,6 +1,7 @@
 ## Hi, I'm Arnav Meduri 👋
 
-I am a Computer Science and Statistics student at Duke University, with interests in machine learning, distributed systems, and human-centered computing.
+I am a Computer Science and Statistics student at Duke University, with interests in machine learning, computer systems, and human-centered computing.
+
 
 ## Experience
 
