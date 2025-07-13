@@ -4,10 +4,5 @@ I am a Computer Science and Statistics student at Duke University.
 
 ## Contact
 
-<a href="mailto:arnav.meduri@duke.edu">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="22" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/arnavmeduri05" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn" />
-</a>
+<img src="https://img.icons8.com/ios-glyphs/30/808080/new-post.png" width="18" style="vertical-align:middle; margin-right:5px;" /> [arnav.meduri@duke.edu](mailto:arnav.meduri@duke.edu)  
+<img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="18" style="vertical-align:middle; margin-right:5px;" /> [https://www.linkedin.com/in/arnavmeduri05](https://www.linkedin.com/in/arnavmeduri05)
