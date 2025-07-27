@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Arnav Meduri
+## Hi, I'm Arnav Meduri 👋 
 
-I'm a Computer Science and Statistics student at Duke University!
+I'm a Computer Science and Statistics student at Duke University. 
 
 ## Contact
 
